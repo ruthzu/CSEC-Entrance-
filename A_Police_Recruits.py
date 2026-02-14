@@ -10,5 +10,4 @@ for i in arr:
             c+=1
     else:
         p+=int(i)
-    # print(i,c,p)
 print(c)
